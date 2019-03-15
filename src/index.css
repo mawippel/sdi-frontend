@@ -1,0 +1,22 @@
+.configBox {
+  border: 1px solid #e1e1e1;
+  border-radius: 5px;
+  padding: 5px 15px 5px 15px;
+  margin-left: 5px;
+}
+
+.centerLoading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.shadowDiv {
+  border: 1px solid #cfcfcfbd;
+  border-radius: 5px;
+  padding: 5px 15px 5px 15px;
+  margin: 20px;
+}
